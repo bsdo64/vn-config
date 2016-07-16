@@ -6,5 +6,6 @@ module.exports = {
   api: require('./api'),
   front: require('./front'),
   image: require('./image'),
-  socket: require('./socket')
+  socket: require('./socket'),
+  redis: require('./redis')
 };
